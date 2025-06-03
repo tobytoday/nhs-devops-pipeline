@@ -7,8 +7,8 @@ This project demonstrates a full DevOps pipeline for a healthcare data processin
 
 ## 🚀 Project Architecture
 
-- **Data Source**: NHS PCA monthly prescription data (CSV)
-- **Data Processing**: Python script using `pandas`
+- **Data Source**: NHS PCA monthly prescription data (CSV) (https://opendata.nhsbsa.net/dataset/prescription-cost-analysis-pca-monthly-data)
+- **Data Processing**: Python script using `pandas` and `Streamlit `
 - **Containerization**: Docker
 - **Kubernetes**: Deployment & Service manifests
 - **CI/CD**: GitHub repo + ArgoCD
@@ -33,6 +33,7 @@ This project demonstrates a full DevOps pipeline for a healthcare data processin
 ---
 
 ## 📂 Folder Structure
+```
 nhs-devops-pipeline/
 ├── argo/ # Kubernetes manifests
 │ ├── deployment.yaml
@@ -48,7 +49,7 @@ nhs-devops-pipeline/
 │ └── outputs.tf
 ├── Dockerfile
 └── README.md
-
+```
 
 ---
 
