@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nhs-dashboard
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nhs-dashboard
+  template:
+    metadata:
+      labels:
+        app: nhs-dashboard
+    spec:
+      containers:
+      - name: streamlit
+        image: tobytoday/nhs-dashboard:latest # Update this to your Docker Hub or ECR image
+        ports:
+        - containerPort: 8501
+
