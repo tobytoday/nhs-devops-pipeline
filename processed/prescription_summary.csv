@@ -1,0 +1,145 @@
+REGION_NAME,BNF_CHAPTER,NIC
+EAST OF ENGLAND,Anaesthesia,207018.85
+EAST OF ENGLAND,Appliances,13423129.24
+EAST OF ENGLAND,Cardiovascular System,11597602.39
+EAST OF ENGLAND,Central Nervous System,13887498.47
+EAST OF ENGLAND,Dressings,2025281.48
+EAST OF ENGLAND,"Ear, Nose and Oropharynx",850672.92
+EAST OF ENGLAND,Endocrine System,18640468.55
+EAST OF ENGLAND,Eye,1491108.86
+EAST OF ENGLAND,Gastro-Intestinal System,6704668.72
+EAST OF ENGLAND,Immunological Products and Vaccines,518730.75
+EAST OF ENGLAND,Incontinence Appliances,1473658.54
+EAST OF ENGLAND,Infections,2073222.85
+EAST OF ENGLAND,Malignant Disease and Immunosuppression,1950630.93
+EAST OF ENGLAND,Musculoskeletal and Joint Diseases,1308848.6199999999
+EAST OF ENGLAND,Nutrition and Blood,5253492.6
+EAST OF ENGLAND,"Obstetrics, Gynaecology and Urinary-Tract Disorders",2504172.67
+EAST OF ENGLAND,Other Drugs and Preparations,86948.13
+EAST OF ENGLAND,Respiratory System,10126913.81
+EAST OF ENGLAND,Skin,2423798.46
+EAST OF ENGLAND,Stoma Appliances,12069988.07
+LONDON,Anaesthesia,304015.04
+LONDON,Appliances,6746180.72
+LONDON,Cardiovascular System,10103640.61
+LONDON,Central Nervous System,15862509.89
+LONDON,Dressings,1172784.9
+LONDON,"Ear, Nose and Oropharynx",1181576.69
+LONDON,Endocrine System,23387106.24
+LONDON,Eye,2187031.35
+LONDON,Gastro-Intestinal System,7282585.45
+LONDON,Immunological Products and Vaccines,1110636.92
+LONDON,Incontinence Appliances,492743.41
+LONDON,Infections,2222247.3
+LONDON,Malignant Disease and Immunosuppression,1393979.35
+LONDON,Musculoskeletal and Joint Diseases,1149837.44
+LONDON,Nutrition and Blood,7661039.49
+LONDON,"Obstetrics, Gynaecology and Urinary-Tract Disorders",2809708.34
+LONDON,Other Drugs and Preparations,99318.92
+LONDON,Preparations used in Diagnosis,350.0
+LONDON,Respiratory System,10194070.44
+LONDON,Skin,4072099.02
+LONDON,Stoma Appliances,1245484.9
+MIDLANDS,Anaesthesia,310741.74
+MIDLANDS,Appliances,12056852.32
+MIDLANDS,Cardiovascular System,19186429.0
+MIDLANDS,Central Nervous System,25732708.18
+MIDLANDS,Dressings,3283571.2399999998
+MIDLANDS,"Ear, Nose and Oropharynx",1551630.31
+MIDLANDS,Endocrine System,33196710.46
+MIDLANDS,Eye,2790790.94
+MIDLANDS,Gastro-Intestinal System,11198844.71
+MIDLANDS,Immunological Products and Vaccines,986496.25
+MIDLANDS,Incontinence Appliances,592247.99
+MIDLANDS,Infections,3480535.46
+MIDLANDS,Malignant Disease and Immunosuppression,2549515.72
+MIDLANDS,Musculoskeletal and Joint Diseases,1918851.51
+MIDLANDS,Nutrition and Blood,18567342.72
+MIDLANDS,"Obstetrics, Gynaecology and Urinary-Tract Disorders",4087968.53
+MIDLANDS,Other Drugs and Preparations,153107.01
+MIDLANDS,Respiratory System,18177125.12
+MIDLANDS,Skin,4895976.07
+MIDLANDS,Stoma Appliances,7912381.11
+NORTH EAST AND YORKSHIRE,Anaesthesia,292877.27
+NORTH EAST AND YORKSHIRE,Appliances,9764205.98
+NORTH EAST AND YORKSHIRE,Cardiovascular System,17211457.2
+NORTH EAST AND YORKSHIRE,Central Nervous System,23713513.42
+NORTH EAST AND YORKSHIRE,Dressings,1586076.44
+NORTH EAST AND YORKSHIRE,"Ear, Nose and Oropharynx",1392821.25
+NORTH EAST AND YORKSHIRE,Endocrine System,29811695.91
+NORTH EAST AND YORKSHIRE,Eye,2064974.9
+NORTH EAST AND YORKSHIRE,Gastro-Intestinal System,11358490.49
+NORTH EAST AND YORKSHIRE,Immunological Products and Vaccines,544797.0
+NORTH EAST AND YORKSHIRE,Incontinence Appliances,286360.13
+NORTH EAST AND YORKSHIRE,Infections,3257259.64
+NORTH EAST AND YORKSHIRE,Malignant Disease and Immunosuppression,2449911.03
+NORTH EAST AND YORKSHIRE,Musculoskeletal and Joint Diseases,1972538.55
+NORTH EAST AND YORKSHIRE,Nutrition and Blood,9792969.72
+NORTH EAST AND YORKSHIRE,"Obstetrics, Gynaecology and Urinary-Tract Disorders",4041015.94
+NORTH EAST AND YORKSHIRE,Other Drugs and Preparations,136126.56
+NORTH EAST AND YORKSHIRE,Preparations used in Diagnosis,175.0
+NORTH EAST AND YORKSHIRE,Respiratory System,19385956.78
+NORTH EAST AND YORKSHIRE,Skin,4577354.69
+NORTH EAST AND YORKSHIRE,Stoma Appliances,2380004.75
+NORTH WEST,Anaesthesia,387060.41000000003
+NORTH WEST,Appliances,9401258.47
+NORTH WEST,Cardiovascular System,12667509.55
+NORTH WEST,Central Nervous System,19155118.16
+NORTH WEST,Dressings,4086280.82
+NORTH WEST,"Ear, Nose and Oropharynx",1211709.3
+NORTH WEST,Endocrine System,21215337.3
+NORTH WEST,Eye,1501103.02
+NORTH WEST,Gastro-Intestinal System,8571960.82
+NORTH WEST,Immunological Products and Vaccines,894731.36
+NORTH WEST,Incontinence Appliances,772641.0700000001
+NORTH WEST,Infections,2475453.57
+NORTH WEST,Malignant Disease and Immunosuppression,1434010.06
+NORTH WEST,Musculoskeletal and Joint Diseases,1525404.43
+NORTH WEST,Nutrition and Blood,11629136.52
+NORTH WEST,"Obstetrics, Gynaecology and Urinary-Tract Disorders",3068481.46
+NORTH WEST,Other Drugs and Preparations,113976.2
+NORTH WEST,Preparations used in Diagnosis,612.5
+NORTH WEST,Respiratory System,13468943.98
+NORTH WEST,Skin,4153652.98
+NORTH WEST,Stoma Appliances,4407777.79
+SOUTH EAST,Anaesthesia,284233.21
+SOUTH EAST,Appliances,9857986.61
+SOUTH EAST,Cardiovascular System,13115359.32
+SOUTH EAST,Central Nervous System,18573629.27
+SOUTH EAST,Dressings,723000.16
+SOUTH EAST,"Ear, Nose and Oropharynx",1141586.5
+SOUTH EAST,Endocrine System,25047060.53
+SOUTH EAST,Eye,2013351.32
+SOUTH EAST,Gastro-Intestinal System,8184654.88
+SOUTH EAST,Immunological Products and Vaccines,868420.73
+SOUTH EAST,Incontinence Appliances,807722.42
+SOUTH EAST,Infections,2641954.42
+SOUTH EAST,Malignant Disease and Immunosuppression,2378228.49
+SOUTH EAST,Musculoskeletal and Joint Diseases,1440738.47
+SOUTH EAST,Nutrition and Blood,12198373.81
+SOUTH EAST,"Obstetrics, Gynaecology and Urinary-Tract Disorders",3460564.56
+SOUTH EAST,Other Drugs and Preparations,120001.34
+SOUTH EAST,Preparations used in Diagnosis,122.5
+SOUTH EAST,Respiratory System,12696146.15
+SOUTH EAST,Skin,3255993.83
+SOUTH EAST,Stoma Appliances,4900760.5
+SOUTH WEST,Anaesthesia,183229.96
+SOUTH WEST,Appliances,6750482.0
+SOUTH WEST,Cardiovascular System,9596421.9
+SOUTH WEST,Central Nervous System,11904253.94
+SOUTH WEST,Dressings,514616.98
+SOUTH WEST,"Ear, Nose and Oropharynx",688385.64
+SOUTH WEST,Endocrine System,15020443.47
+SOUTH WEST,Eye,1194737.29
+SOUTH WEST,Gastro-Intestinal System,5422542.81
+SOUTH WEST,Immunological Products and Vaccines,512903.27
+SOUTH WEST,Incontinence Appliances,932678.96
+SOUTH WEST,Infections,1743022.48
+SOUTH WEST,Malignant Disease and Immunosuppression,1598804.68
+SOUTH WEST,Musculoskeletal and Joint Diseases,1058295.7
+SOUTH WEST,Nutrition and Blood,4245016.71
+SOUTH WEST,"Obstetrics, Gynaecology and Urinary-Tract Disorders",2318332.42
+SOUTH WEST,Other Drugs and Preparations,62976.56
+SOUTH WEST,Respiratory System,8796062.86
+SOUTH WEST,Skin,2056578.44
+SOUTH WEST,Stoma Appliances,1586926.95
